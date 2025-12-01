@@ -169,3 +169,293 @@ The contigency table is as follows :
 on Arxiv (between CfP to Review)         
 not on Arxiv(between CfP to Review)      
 ```
+
+# PRE-PRINT POLICIES 
+- ICLR : https://iclr.cc/Conferences/2026/AuthorGuide
+- NeurIPS : https://neurips.cc/Conferences/2025/CallForPapers
+- ICML : https://icml.cc/Conferences/2025/CallForPapers
+- AAAI : https://aaai.org/conference/aaai/aaai-25/review-process/
+- ACL : https://aclrollingreview.org/anonymity/
+- EMNLP : https://2025.emnlp.org/calls/main_conference_papers/
+- COLING : https://coling2025.org/calls/main_conference_papers/?utm_source=chatgpt.com#anonymity-period
+- KDD : https://kdd2025.kdd.org/research-track-call-for-papers/
+- CVPR : https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines
+
+# AFFILIATIONS 
+<p>The list of top 25 unversities, top 25 oragnizations, bottom 25 universities and bottom 25 organizations has been customized for every conference. For universities, the ranking reference is taken from https://csrankings.org/#/index?all&world . For organizations, LLMs have been used for ranking reference. Following is the merged list of each of the 4 affiliation categories, across all conferences and all years. </p>
+
+## TOP 25 RANKED UNIVERSITIES
+* Zhejiang University
+* Peking University
+* Shanghai Jiao Tong University
+* The Chinese University of Hong Kong
+* Nanyang Technological University
+* Carnegie Mellon University
+* Tsinghua University
+* Stanford University
+* National University of Singapore
+* Shanghai Jiaotong University
+* Nanjing University
+* ETH Zurich
+* Beihang University
+* Massachusetts Institute of Technology
+* Wuhan University
+* Yonsei University
+* The University of Hong Kong
+* Harbin Institute of Technology
+* City University of Hong Kong
+* Georgia Institute of Technology
+* University of Maryland, College Park
+* Nankai University
+* The Chinese University of Hong Kong, Shenzhen
+* KAIST
+* University of Michigan
+* University of Science and Technology of China
+* Fudan University
+* Huazhong University of Science and Technology
+* Xiamen University
+* South China University of Technology
+* Seoul National University
+* Sun Yat-Sen University
+* Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+* Xidian University
+* Johns Hopkins University
+* Shanghai AI Laboratory
+* Massachusetts Institute of Technology(mit.edu)
+* Stanford University(stanford.edu)
+* Peking University(pku.edu.cn)
+* Carnegie Mellon University(cmu.edu)
+* Tsinghua University, Tsinghua University(tsinghua.edu.cn)
+* New York University(nyu.edu)
+* University of California, San Diego(ucsd.edu)
+* Nanyang Technological University(ntu.edu.sg)
+* Tsinghua University(tsinghua.edu.cn)
+* University of California Berkeley(berkeley.edu)
+* Princeton University(princeton.edu)
+* University of Texas at Austin(utexas.edu)
+* Georgia Institute of Technology(gatech.edu)
+* Harvard University(harvard.edu)
+* University of Cambridge(cam.ac.uk)
+* Zhejiang University(zju.edu.cn)
+* Nanjing University(nju.edu.cn)
+* National University of Singapore(nus.edu.sg)
+* Yale University(yale.edu)
+* Korea Advanced Institute of Science & Technology(kaist.ac.kr)
+* Northeastern University(northeastern.edu)
+* Swiss Federal Institute of Technology(ethz.ch)
+* Eberhard-Karls-Universität Tübingen(uni-tuebingen.de)
+* Shanghai Jiaotong University(sjtu.edu.cn)
+* Cornell University(cornell.edu)
+* University of California,San Diego(ucsd.edu)
+* University of California,Los Angeles(ucla.edu)
+* University of Pennsylvania(upenn.edu)
+* University of Southern California(usc.edu)
+* University of California,Berkeley(berkeley.edu)
+* University of Illinois at Urbana-Champaign
+* University of Virginia
+* Beijing University of Posts and Telecommunications
+* Emory University
+* The Hong Kong University of Science and Technology (Guangzhou
+* University of Illinois Urbana-Champaign
+* Hong Kong University of Science and Technology
+* Renmin University of China
+* KTH Royal Institute of Technology
+* University of Science and Technology of China; State Key Laboratory of Cognitive Intelligence
+* University of Electronic Science and Technology of China(uestc.edu.cn)
+* Institute of Computing Technology, Chinese Academy of Sciences(ict.ac.cn)
+* University of Oxford(ox.ac.uk)
+* Seoul National University(snu.ac.kr)
+* University of Maryland, College Park(umd.edu)
+* Fudan University(fudan.edu.cn)
+* Shanghai Jiao Tong University
+* Tsinghua University
+* University of Science and Technology of China
+* Zhejiang University
+* Massachusetts Institute of Technology
+* University of Electronic Science and Technology of China
+* Carnegie Mellon University
+* State Key Laboratory for Novel Software Technology, Nanjing University, China
+* College of Computer Science and Technology, Zhejiang University
+* Harvard University
+* National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210023, China
+* National University of Singapore
+* Northeastern University
+* Stanford University
+* The Chinese University of Hong Kong
+* Huazhong University of Science and Technology
+* School of Computer Science and Engineering, Nanyang Technological University, Singapore
+* State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications
+* Rochester Institute of Technology
+* Department of Electronic Engineering, Tsinghua University
+* Nanyang Technological University
+* Peking University
+* Politecnico di Milano
+* School of Computer Science and Engineering, Sun Yat-sen University
+* University of Oxford
+
+## BOTTOM 25 RANKED UNIVERSITIES
+
+* University of Science and Technology of China
+* Huazhong University of Science and Technology
+* Xiamen University
+* South China University of Technology
+* Seoul National University
+* Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+* Xidian University
+* Johns Hopkins University
+* Shanghai AI Laboratory
+* Tencent
+* Institute of automation, Chinese academy of science(nlpr.ia.ac.cn)
+* AI,Westlake University(westlake.edu.cn)
+* Aarhus University(au.dk)
+* Aarhus University(ece.au.dk)
+* Aerospace Engineering & AI,Seoul National University(snu.ac.kr)
+* Allen Institute for AI(allenai.org)
+* Allen school of computer science and engineering,University of Washington(uw.edu)
+* Analytics and Operations,National University of Singapore(nus.edu.sg)
+* Applied AI Institute (A2I2),Deakin University(deakin.edu.au)
+* Artificial Intelligence,Yonsei University(yonsei.ac.kr)
+* Auburn University(auburn.edu)
+* Australian Artificial Intelligence Institute,University of Technology Sydney(uts.edu.au)
+* Bayerische Julius-Maximilians-Universität Würzburg(uni-wuerzburg.de)
+* Beijing Institute of Mathematical Sciences and Applications(bimsa.cn)
+* Beijing University of Posts and Communications(bupt.edu)
+* Ben Gurion University of the Negev(bgu.ac.il)
+* Berlin Institute for the Foundations of Learning and Data(tu-berlin.de)
+* University of California, Los Angeles(cs.ucla.edu)
+* University of Utah(cs.utah.edu)
+* A*STAR(cfar.a-star.edu.sg)
+* AGI Center, Ant Research Institute(antgroup.com)
+* AI & Data Science, Monash University(monash.edu.au)
+* AI Core,Zhongguancun Institute of Artificial Intelligence(zgci.ac.cn)
+* AI Institute, Innopolis University(innopolis.university)
+* AI4SCI,Centre for Artificial Intelligence and Robotics Hong Kong, Chinese Academy of Sciences(cair-cas.org.hk)
+* AIRI(airi.edu)
+* AMCS, GRASP,University of Pennsylvania(upenn.edu)
+* American University
+* Anhui Province Key Laboratory of Big Data Analysis and Application; State Key Laboratory of Cognitive Intelligence
+* BOSS Zhipin
+* Baylor University
+* Beijing Technology and Business University
+* Brandeis University
+* C3.ai Digital Transformation Institute
+* CAS Key Laboratory of GIPAS, University of Science and Technology of China
+* CENTAI Institute
+* CRIPAC, MAIS, Institute of Automation, Chinese Academy of Sciences
+* Case Western Reserve University
+* Center for Frontier AI Research, Agency for Science and Technology and Research (A*STAR)
+* China Electric Power Research Institute
+* China’s Aviation System Engineering Research Institute
+* Clemson University
+* University of British Columbia(cs.ubc.ca)
+* University of Chicago(cs.uchicago.edu)
+* Université Paris-Dauphine (Paris IX)(lamsade.dauphine.fr)
+* AI Centre, Department of Computer Science,University College London, University of London(ucl.ac.uk)
+* 1Advanced Research Lab, NavInfo Europe, The Netherlands
+* 1Gaoling School of Artiﬁcial Intelligence, Renmin University of China, Beijing, China
+* 2Beijing Key Laboratory of Big Data Management and Analysis Methods, Beijing, China
+* 2Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands
+* 360 DigiTech, Inc
+* 3Huawei London Research Center, UK
+* 3School of Computer Science, Beijing University of Posts and Telecommunications, China
+* 4Guangxi Key Lab of Multi-Source Information Mining and Security, Guangxi Normal University, Guilin 541004, China
+* AGH University
+* AI Division, School of Engineering, Westlake University, Hangzhou
+* AI Initiative, King Abdullah University of Science and Tech, Saudi Arabia+Jarvis Lab, Tencent, Shenzhen 518057, China
+* AI Lab, CyberAgent, Japan
+* AI Research and Innovation Laboratory, School of Engineering, Westlake University
+* AI Research and Innovation Laboratory, Institute of AI Industry Research
+* AI4Bharat
+* AIRI
+
+## TOP 25 RANKED ORGANIZATIONS
+
+* OpenAI
+* Google Research
+* DeepMind
+* Meta AI
+* Facebook
+* Microsoft Research
+* Amazon AI
+* IBM Research
+* Snowflake
+* Databricks
+* Hugging Face
+* NVIDIA Research
+* Stanford University AI Lab
+* MIT CSAIL
+* CMU Machine Learning Department
+* Berkeley AI Research (BAIR)
+* Allen Institute for AI (AI2)
+* Huawei Noah's Ark Lab
+* Salesforce Research
+* Adobe Research
+* Tencent AI Lab
+* ByteDance AI Lab
+* Qualcomm AI Research
+* Bytedance NLP Lab
+* Apple Machine Learning Research
+* Ant Financial / Alibaba DAMO Academy
+
+
+## BOTTOM 25 RANKED ORGANIZATIONS
+
+* Alibaba Group
+* Huawei Technologies Ltd.
+* Tencent AI Lab
+* AI Institution,Vivo(vivo.com)
+* 4Paradigm Inc.(4paradigm.com)
+* AI Advanced Technology,SK hynix(sk.com)
+* AI Core Research,Toyota Motor Europe(toyota-europe.com)
+* AI Research,Salesforce(salesforce.com)
+* AI,Reality Defender(realitydefender.com)
+* AI/ML,GlaxoSmithKlein(gsk.ai)
+* ASAPP(asapp.com)
+* ASAPP Inc.(asapp.com)
+* Alibaba Group US
+* Amazon Search Science and AI
+* Amazon Web Services
+* Beijing Big Data Centre
+* ByteDance
+* Bytedance Research
+* CITIC Securities
+* Calculation Consulting
+* Capinfo Company Limited
+* Spotify(spotify.com)
+* 2012 Labs,Huawei Technologies Ltd.(huawei.com)
+* ADLR,NVIDIA(nvidia.com)
+* AFSL,Samsung(samsung.com)
+* AI Algorithm,Sengine(sengine.ai)
+* AI Center,Samsung(samsung.com)
+* AI Foundations,CapitalOne(capitalone.com)
+* AI Frontier,Microsoft(microsoft.com)
+* AI Institution,OPPO(oppo.com)
+* AI LAB Bytedance(bytedance.com)
+* AI Lab,ByteDance Inc.(bytedance.com)
+* AI Lab,Kangma Biotech(healthcodon.com)
+* AI Lab,NAVER(navercorp.com)
+* 1Advanced Research Lab, NavInfo Europe, The Netherlands
+* 360 DigiTech, Inc
+* 3Huawei London Research Center, UK
+* AIRS Company, Hyundai Motor Group
+* AWS AI Labs + IBM Research AI
+* Air Force Research Laboratory
+* Algorithmics and Computational Complexity, Technische Universit ¨at Berlin
+* Algorithms and Complexity Group, Technische Universit ¨at Wien, Vienna, Austria
+* Alibaba Cloud Computing Ltd.
+* Alibaba DAMO Academy
+* Alibaba Group
+* Alibaba US, DAMO Academy, Decision Intelligence Lab
+* Alibaba group, China
+* Amazon Science
+* Amgen Research (Munich) GmbH, Munich, Germany
+* Ant Group + Alibaba Inc
+* Ant Group, Hangzhou, China + Toyota Technological Institute at Chicago, Chicago, IL, United States
+* Apple
+* Apple + Google Research
+* Applied Research Center (ARC), Tencent PCG
+* Autonomous Learning Group, Max Planck Institute for Intelligent Systems, Tübingen, Germany
+* Beijing Academy of Artificial Intelligence
+* Beijing Academy of Artificial Intelligence, Beijing, China
+* Beijing Rongda Technology Co., Ltd., China
+* Boehringer Ingelheim RCV GmbH & Co KG, Vienna, Austria
